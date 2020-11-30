@@ -3,7 +3,7 @@
 int main()
 {
     printf("Hello World\n");
-    //hekko
+    //hekkoddd
     system("pause");
     return 0;
 }
