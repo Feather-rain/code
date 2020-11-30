@@ -3,7 +3,6 @@
 int main()
 {
     printf("Hello World\n");
-    //hekkoddd
     system("pause");
     return 0;
 }
